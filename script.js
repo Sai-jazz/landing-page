@@ -3,7 +3,7 @@
 // =====================================================
 
 // Configuration - UPDATE THESE URLs
-const GUARD_APP_URL = 'visitor-management-frontend-avdc.vercel.app';  // Change to your deployed guard app URL
+const GUARD_APP_URL = 'https://visitor-management-frontend-avdc-3qgpyt4xi-sai-jazzs-projects.vercel.app/';  // Change to your deployed guard app URL
 const ADMIN_APP_URL = 'https://sai-jazz.github.io/admin-dashboard-VMA-/';  // Change to your deployed admin app URL
 const DEMO_URL = 'https://calendly.com/your-link';  // Optional: Add your demo booking link
 
