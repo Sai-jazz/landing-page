@@ -4,7 +4,7 @@
 
 // Configuration - UPDATE THESE URLs
 const GUARD_APP_URL = 'http://localhost:3001';  // Change to your deployed guard app URL
-const ADMIN_APP_URL = 'http://localhost:3003';  // Change to your deployed admin app URL
+const ADMIN_APP_URL = 'http://localhost:5501';  // Change to your deployed admin app URL
 const DEMO_URL = 'https://calendly.com/your-link';  // Optional: Add your demo booking link
 
 // Get buttons
